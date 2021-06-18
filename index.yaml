@@ -3,7 +3,7 @@ entries:
   superset:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-06-10T14:59:56.339785235Z"
+    created: "2021-06-18T04:10:42.435969552Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -15,13 +15,13 @@ entries:
       version: 12.3.0
     description: Apache Superset is a modern, enterprise-ready business intelligence
       web application
-    digest: b92b36cf947fd0cee47823193e19079244c62ad3d7d788affb502ae8a4cc69bb
+    digest: 61f565f6c9543c29d7135a3b904ef31a6c9ec9f2a7639750424138fd3f9e67ff
     maintainers:
     - email: craig@craigrueda.com
       name: craig-rueda
       url: https://github.com/craig-rueda
     name: superset
     urls:
-    - https://github.com/stephenLYZ/superset/releases/download/superset-helm-chart-0.1.4/superset-0.1.4.tgz
-    version: 0.1.4
-generated: "2021-06-10T14:59:56.339795935Z"
+    - https://github.com/stephenLYZ/superset/releases/download/superset-helm-chart-0.1.5/superset-0.1.5.tgz
+    version: 0.1.5
+generated: "2021-06-18T04:10:42.435980153Z"
